@@ -1,0 +1,15 @@
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.AssemblyReference.cache
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfoInputs.cache
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfo.cs
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\bin\Debug\net6.0\JuegoDados.exe
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\bin\Debug\net6.0\JuegoDados.deps.json
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\bin\Debug\net6.0\JuegoDados.runtimeconfig.json
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\bin\Debug\net6.0\JuegoDados.dll
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\bin\Debug\net6.0\ref\JuegoDados.dll
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\bin\Debug\net6.0\JuegoDados.pdb
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.dll
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\ref\JuegoDados.dll
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.pdb
+C:\Users\ENRCO\Downloads\.NET\Examen01\JuegoDados\obj\Debug\net6.0\JuegoDados.genruntimeconfig.cache
